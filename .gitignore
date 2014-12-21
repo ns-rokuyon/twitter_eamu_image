@@ -1,0 +1,4 @@
+config/twitter.yaml
+vendor/*
+log/*
+.bundle
