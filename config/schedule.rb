@@ -20,5 +20,5 @@
 # Learn more: http://github.com/javan/whenever
 
 every 1.hours do
-    command "cd /home/ns64/git_repos/eamu_images && bundle exec ruby eamu.rb"
+    command "cd /home/ns64/git_repos/eamu_images && bundle exec ruby crawler.rb --config config/crawler/wiiu.yaml"
 end
