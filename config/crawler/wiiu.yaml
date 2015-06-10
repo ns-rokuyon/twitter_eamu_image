@@ -1,0 +1,5 @@
+via: Wii U画像投稿ツール
+query: "#WiiU"
+log: wiiu_download.log
+savedir: /home/ns64/images/input/WiiU
+count: 100

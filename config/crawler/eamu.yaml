@@ -1,0 +1,5 @@
+via: eAMUSEMENT
+query: "a OR aa OR aaa OR クリア OR 弐寺 OR リフレク OR jubeat OR ボルテ OR HARD OR EXT OR 難 OR ハード OR フルコン OR ノマゲ OR 易 OR ☆ "
+log: eamu_download.log
+savedir: /home/ns64/images/input/eamu
+count: 100
